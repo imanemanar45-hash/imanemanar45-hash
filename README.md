@@ -19,13 +19,6 @@ Hello! I am exploring the world of software, hardware, and design out of pure cu
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3M2N5Z3I0azB4dmpxcmNwaW15ODVrb3Fqd3Y4cmM1bW00eW9waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L40vT2msE6X0R91mOk/giphy.gif" width="60px">
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3M2N5Z3I0azB4dmpxcmNwaW15ODVrb3Fqd3Y4cmM1bW00eW9waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L40vT2msE6X0R91mOk/giphy.gif" width="60px">
-</p>
-### 🛠️ Languages & Technologies
-![Python](https://img.shields.io/badge/Python-ffde57?style=flat-square&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-pink?style=flat-square&logo=openai&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-gray?style=flat-square&logo=arduino&logoColor=white)
-### 🛠️ Languages & Technologies
+
+
 [![My Skills](https://skillicons.dev/icons?i=python,c,arduino)](https://skillicons.dev)
